@@ -25,7 +25,7 @@ The present scaffolder contains a simple Express server application with the fol
 -   The application uses the Express web server framework (version 4.16).
 -   `package.json`  holds the application dependencies and their versions.
 -   Your Express/NodeJS code can directl be in the home directory of the Git repository.
--   Jade is used as a templating language for web pages.
+-   Pug is used as a templating language for web pages.
 -   The  [Express's Router module](https://expressjs.com/en/guide/routing.html)  is used for routing.
 -   The application starts on port 80.
 
